@@ -48,5 +48,5 @@ Here below is an example tp connect 2 TSLs , 1 OSU-100 and 1 MPM:
 
 ## 4. Operational steps
 
-Refere to the Manual 
+Refere to the Manual [HERE](https://github.com/santec-corporation/Santec_Full_band_IL/blob/main/Santec%20Full-Band%20IL%20Swept%20Test%20System%20Manual%20V1.pdf)
 
